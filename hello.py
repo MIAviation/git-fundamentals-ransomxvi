@@ -1,3 +1,3 @@
 # Nathan Walker #
 
-print("Hello, Git")
+print("Hello, git")
